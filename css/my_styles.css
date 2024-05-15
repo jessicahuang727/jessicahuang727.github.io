@@ -1,0 +1,42 @@
+h1{
+    background-color: white;
+    color: #5a7a88;
+}
+
+h2.blueblue{
+    background-color: #7fa1af99;
+    color:ghostwhite;
+    padding: 5px 0px 5px 10px;
+    width: 100%;
+}
+
+
+.testtest{
+    color: rgb(0, 47, 85);
+    background-color: hsla(196, 8%, 72%, 0.2);
+    text-align: left;
+    font-size: 20px !important;
+    text-transform: uppercase;
+    text-indent: 2em;
+    letter-spacing: 0.8px;
+    line-height: 150%;
+    border: 3px solid;
+    border-color: rgba(104, 130, 142, 0.757);
+    padding: 20px;
+    border-radius: 25px;
+}
+
+.engfont{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.bg-primary{
+    background-color: blue !important;
+    background-image: url(../assets/img/background01.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h5{
+    color: #51859c;
+}
