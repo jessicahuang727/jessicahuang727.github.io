@@ -40,3 +40,25 @@ h2.blueblue{
 h5{
     color: #51859c;
 }
+
+/*讓icon有背景色、hover特效，滑鼠滑上去有變色效果+背景色*/
+.expedu_icon{
+    color: cornflowerblue;
+    padding: 0px 4px 1px 6px;
+}
+
+.expedu_icon:hover{
+    background-color: darkblue;
+    color: wheat;
+    border-radius: 15px;
+    padding: 0px 4px 1px 6px;
+}
+
+/*此class可更改頁面上文字的顏色，若前面改為*則可以直接將所有頁面的顏色都改為白色*/
+.whitecolor{
+    color: white !important;
+}
+
+.bor-15{
+    border-radius: 15px;
+}
